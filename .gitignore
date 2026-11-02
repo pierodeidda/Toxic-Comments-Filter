@@ -1,0 +1,61 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# file autosave
+*-checkpoint.ipynb
+
+# =========================
+# IDE (VS Code / PyCharm)
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Data (se non vuoi versionare dati)
+# =========================
+*.csv
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+*.git
+.git/
+
+*.zip
+
+# Folder with old models
+Further/
+
+
+# Model 
+*.pkl
